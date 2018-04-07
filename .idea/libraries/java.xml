@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../学习资料/云计算/CloudSim/cloudsim-cloudsim-4.0.zip!/cloudsim-cloudsim-4.0/modules/cloudsim-examples/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../../../学习资料/云计算/CloudSim/cloudsim-cloudsim-4.0.zip!/cloudsim-cloudsim-4.0/modules/cloudsim/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../../../学习资料/云计算/CloudSim/cloudsim-cloudsim-4.0.zip!/cloudsim-cloudsim-4.0/modules/cloudsim/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
